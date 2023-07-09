@@ -37,3 +37,5 @@ use ./chessboard
 use ./election-day
 
 use ./elons-toys
+
+use ./interest-is-interesting
