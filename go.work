@@ -1,0 +1,37 @@
+go 1.18
+
+use ./hello-world
+
+use ./lasagna
+
+use ./weather-forecast
+
+use ./cars-assemble
+
+use ./annalyns-infiltration
+
+use ./welcome-to-tech-palace
+
+use ./vehicle-purchase
+
+use ./party-robot
+
+use ./card-tricks
+
+use ./blackjack
+
+use ./need-for-speed
+
+use ./animal-magic
+
+use ./bird-watcher
+
+use ./lasagna-master
+
+use ./booking-up-for-beauty
+
+use ./gross-store
+
+use ./chessboard
+
+use ./election-day

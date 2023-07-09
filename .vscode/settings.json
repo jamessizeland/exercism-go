@@ -1,0 +1,11 @@
+{
+  "go.lintOnSave": "package",
+  "go.inlayHints.assignVariableTypes": true,
+  "go.inlayHints.functionTypeParameters": true,
+  "gopls": {
+    "ui.semanticTokens": true
+  },
+  // force format on save to be enabled for this project
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+}
