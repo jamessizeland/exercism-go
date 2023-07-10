@@ -1,45 +1,27 @@
-go 1.18
+go 1.20
 
-use ./hello-world
-
-use ./lasagna
-
-use ./weather-forecast
-
-use ./cars-assemble
-
-use ./annalyns-infiltration
-
-use ./welcome-to-tech-palace
-
-use ./vehicle-purchase
-
-use ./party-robot
-
-use ./card-tricks
-
-use ./blackjack
-
-use ./need-for-speed
-
-use ./animal-magic
-
-use ./bird-watcher
-
-use ./lasagna-master
-
-use ./booking-up-for-beauty
-
-use ./gross-store
-
-use ./chessboard
-
-use ./election-day
-
-use ./elons-toys
-
-use ./interest-is-interesting
-
-use ./logs-logs-logs
-
-use ./parsing-log-files
+use (
+	./hello-world
+	./lasagna
+	./weather-forecast
+	./cars-assemble
+	./annalyns-infiltration
+	./welcome-to-tech-palace
+	./vehicle-purchase
+	./party-robot
+	./card-tricks
+	./blackjack
+	./need-for-speed
+	./animal-magic
+	./bird-watcher
+	./lasagna-master
+	./booking-up-for-beauty
+	./gross-store
+	./chessboard
+	./election-day
+	./elons-toys
+	./interest-is-interesting
+	./logs-logs-logs
+	./parsing-log-files
+	./airport-robot
+)
