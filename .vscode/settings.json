@@ -1,4 +1,5 @@
 {
+  "go.lintTool": "staticcheck",
   "go.lintOnSave": "package",
   "go.inlayHints.assignVariableTypes": true,
   "go.inlayHints.functionTypeParameters": true,
