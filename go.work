@@ -25,4 +25,5 @@ use (
 	./parsing-log-files
 	./airport-robot
 	./census
+	./meteorology
 )
