@@ -26,4 +26,5 @@ use (
 	./airport-robot
 	./census
 	./meteorology
+	./sorting-room
 )
