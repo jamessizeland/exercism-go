@@ -28,4 +28,5 @@ use (
 	./meteorology
 	./sorting-room
 	./the-farm
+	./expenses
 )
