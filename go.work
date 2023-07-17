@@ -30,3 +30,7 @@ use (
 	./the-farm
 	./expenses
 )
+
+use (
+	./two-fer
+)
